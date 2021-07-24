@@ -39,4 +39,10 @@ Depois disso, utilize uma ferramenta como o [Live Server](https://marketplace.vi
 
 ---
 
+## 📝 Licença
+
+O projeto está sob a licença MIT. Para saber mais, acesse o arquivo [LICENSE](https://github.com/RomuloHe4rt/clone-pinterest/blob/master/LICENSE)
+
+---
+
 **Desenvolvido com ❤️ por [Rômulo Silva](https://github.com/RomuloHe4rt/).**
