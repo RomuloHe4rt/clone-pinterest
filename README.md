@@ -1,6 +1,8 @@
 # UI Clone Pinterest 📌
 
+<p align="center">
 <img src="https://uploaddeimagens.com.br/images/003/350/302/original/68747470733a2f2f692e696d6775722e636f6d2f6b3663376f49572e706e67.png?1627140306" />
+</p>
 
 ## Como este site foi construído?
 
